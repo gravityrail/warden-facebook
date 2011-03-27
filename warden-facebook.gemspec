@@ -17,7 +17,6 @@ Gem::Specification.new do |s|
     "README.markdown"
   ]
   s.files = [
-    ".document",
     "Gemfile",
     "Gemfile.lock",
     "LICENSE",
@@ -34,7 +33,6 @@ Gem::Specification.new do |s|
     "test/strategy_test.rb",
     "test/user_test.rb",
     "warden-facebook.gemspec",
-    "warden_facebook.gemspec"
   ]
   s.homepage = %q{http://github.com/dasch/warden_facebook}
   s.require_paths = ["lib"]
