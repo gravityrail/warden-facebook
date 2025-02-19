@@ -12,5 +12,5 @@ group :test do
   gem 'shoulda'
   gem 'webrat'
   gem 'rack-test', :require => 'rack/test'
-  gem 'sinatra', '~>1.0', :require => 'sinatra/base'
+  gem 'sinatra', '~>4.1', :require => 'sinatra/base'
 end
